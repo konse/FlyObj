@@ -17,7 +17,7 @@ class FlyObj{
     int Y;
     int R;
     
-    
+ // YYYYYYYYYYYYYYYYYYYRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRAAAAAAAAAAAAAAAAA!!!!!!!!!!!!
 }
 
 class MyPanel extends JPanel{
