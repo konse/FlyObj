@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Created by IntelliJ IDEA.
  * User: 1
  * Date: 13.11.12
@@ -11,6 +11,8 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.HashSet;
 import java.util.Set;
+
+//яяяяяяяяяяяяяяяяяяяяяяяя
 
 class FlyObj{
     int X;
