@@ -16,9 +16,10 @@ class FlyObj{
     int X;
     int Y;
     int R;
-    
- // YYYYYYYYYYYYYYYYYYYRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRAAAAAAAAAAAAAAAAA!!!!!!!!!!!!
+
 }
+
+//ввод коментария 30.11.2012
 
 class MyPanel extends JPanel{
     Set <FlyObj>flyObjList;
@@ -48,7 +49,12 @@ public class WIndowsButton1 {
         final MyPanel APanel = new MyPanel();
         APanel.flyObjList=flyObjList;
 
-        AWind.add(APanel);
+        JTextArea oneTextArea=new JTextArea(2,5);
+
+
+       // AWind.add(APanel);
+        //AWind.add(oneTextArea);
+        //oneTextArea.setLineWrap(true);
 
         JButton ABut = new JButton("Кнопка");
         ABut.addActionListener(new ActionListener() {
